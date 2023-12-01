@@ -1,0 +1,70 @@
+# 忽略Unity Library文件夹
+/[Ll]ibrary/
+
+# 忽略Temp文件夹
+/[Tt]emp/
+
+# 忽略PackageCache文件夹
+/[Pp]ackage[Cc]ache/
+
+# 忽略Obj文件夹
+/[Oo]bj/
+
+# 忽略Build文件夹
+/[Bb]uild/
+/[Bb]uilds/
+
+# 忽略Logs文件夹
+/[Ll]ogs/
+
+# 忽略UserSettings文件夹
+/[Uu]ser[Ss]ettings/
+
+# 忽略MemoryCaptures文件夹
+/[Mm]emoryCaptures/
+
+# 忽略Recordings文件夹
+/[Rr]ecordings/
+
+# 忽略VS、MD、Consulo等生成的解决方案和项目文件
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# 忽略Unity3D生成的meta文件
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# 忽略Unity3D在崩溃报告中生成的文件
+sysinfo.txt
+
+# 忽略Builds相关文件
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# 忽略Crashlytics生成的文件
+crashlytics-build.properties
+
+# 忽略Packed Addressables生成的文件
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# 忽略Temporary auto-generated Android Assets
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/
+
